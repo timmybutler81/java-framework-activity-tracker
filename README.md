@@ -11,4 +11,4 @@ Data was collected from the GitHub REST API for:
 The Java collector ran in AWS Lambda and was scheduled through
 Amazon EventBridge. Collected records were stored in Amazon DynamoDB.
 
-Data collection was completed on November 7, 2026.
+Data collection period: September 27th, 2026 - October 19th, 2026.
